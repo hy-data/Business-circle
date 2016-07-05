@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Business-circle:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Business_circle_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Business-circle/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Business-circle" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
